@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-admin/api-admin.iml" filepath="$PROJECT_DIR$/api-admin/api-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-common/api-common.iml" filepath="$PROJECT_DIR$/api-common/api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-config/api-config.iml" filepath="$PROJECT_DIR$/api-config/api-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-eureka/api-eureka.iml" filepath="$PROJECT_DIR$/api-eureka/api-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-producer/api-producer.iml" filepath="$PROJECT_DIR$/api-producer/api-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-rest/api-rest.iml" filepath="$PROJECT_DIR$/api-rest/api-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-turbine/api-turbine.iml" filepath="$PROJECT_DIR$/api-turbine/api-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-rest/auth/auth.iml" filepath="$PROJECT_DIR$/api-rest/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-rest/bingo/bingo.iml" filepath="$PROJECT_DIR$/api-rest/bingo/bingo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bingo-api.iml" filepath="$PROJECT_DIR$/bingo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-rest/common/common.iml" filepath="$PROJECT_DIR$/api-rest/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-rest/suer/suer.iml" filepath="$PROJECT_DIR$/api-rest/suer/suer.iml" />
+    </modules>
+  </component>
+</project>
